@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Python,Pytorch**
 
-- 📝 I regularly write articles on [https://hoogdle.tistory.com/](https://hoogdle.tistory.com/)
-
 - 📫 How to reach me **rlaxodud7737@naver.com**
 
 <h3 align="left">Connect with me:</h3>
