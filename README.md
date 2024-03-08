@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kim Taeyeong</h1>
-<h3 align="center">Hard working AI Programmer</h3>
+<h3 align="center">Hard Working NLP Model Developer</h3>
 
 - 🌱 I’m currently learning **Python,Pytorch**
 
