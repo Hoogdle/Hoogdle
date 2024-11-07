@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python,Pytorch,Language model**
 
-- 📫 How to reach me **rlaxodud7737@naver.com**
+- 📫 How to reach me **kimtaeyeong000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
