@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Kim Taeyeong</h1>
-<h3 align="center">Hard working AI Scientist</h3><br />
+<h3 align="center">Hard working <u>Android Developer & AI Scientist</u> </h3><br />
 
+- 😎 I want to be Great Android Developer & AI Scientist, **who are working on his own idea and feeling**, not be restricted by other people. For this, I'm working Hard Consistently to make my opinion more clear and closer to the fundamentals of the problem.
+
+- 📖 My Philosophy is rooted by below quotes.<br/><br/>
+  🔖 “The important thing in science is not so much to obtain new facts as to discover new ways of thinking about them.”<br/> - William Lawrence<br/><br/>
+  🔖 “Genius is patience.” - Isaac Newton<br/>
+  
 - 🔭 I’m currently researching on **AI, specifically Model Architecture.**
 
 - 📫 How to reach me **kimtaeyeong000@gmail.com**
