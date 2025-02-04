@@ -3,7 +3,7 @@
 
 - 😎 I'm Android Developer & AI Scientist, **who are wokring sincerely**, Feel the world deeply, Make creative things.
 
-- 📖 My Philosophy is rooted by below quotes.<br/><br/>
+- 📖 My Philosophy is rooted from below quotes.<br/><br/>
   🔖 “The important thing in science is not so much to obtain new facts as to discover new ways of thinking about them.”<br/> - William Lawrence<br/><br/>
   🔖 “Genius is patience.” - Isaac Newton<br/>
   
