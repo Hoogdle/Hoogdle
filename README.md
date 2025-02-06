@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kim Taeyeong</h1>
-<h3 align="center">[Consistent] | "AI Scientist" | [Long Run Pace]</h3><br />
+<h3 align="center">Consistent | "Android Developer & AI Scientist" | Long Run Pace</h3><br />
 
-- 😎 I'm AI Scientist, **who are wokring sincerely**, Feel the world deeply.
+- 😎 I'm Android Developer & AI Scientist, **who are wokring sincerely**, Feel the world deeply, Make creative things.
 
 - 📖 My Philosophy is rooted from below quotes.<br/><br/>
   🔖 “The important thing in science is not so much to obtain new facts as to discover new ways of thinking about them.”<br/> - William Lawrence<br/><br/>
