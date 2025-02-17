@@ -9,6 +9,7 @@
 - 🔭 I’m currently researching on **Language Model, XAI**
 
 - 📫 How to reach me **kimtaeyeong000@gmail.com**
+- 📝 [My AI Blog](https://hoogdle.github.io/)
 
 
 
