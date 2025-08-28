@@ -6,7 +6,7 @@
   🔖 “The important thing in science is not so much to obtain new facts as to discover new ways of thinking about them.”<br/> - William Lawrence<br/><br/>
   🔖 “Genius is patience.” - Isaac Newton<br/>
   
-- 🔭 I’m currently researching on **Language Model, XAI**
+- 🔭 I’m currently researching on **Using RL for LLM Reasoning**
 
 - 📫 How to reach me **kimtaeyeong000@gmail.com**
 - 📝 [My AI Blog](https://hoogdle.github.io/)
